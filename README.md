@@ -15,7 +15,6 @@ First-year B.Tech CSE (AI & ML) student at UPES — currently building the habit
 ```
 [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 19%
 ```
-*(update this bar as you go — one block ≈ 2 days)*
 
 ---
 
