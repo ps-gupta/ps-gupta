@@ -25,4 +25,4 @@ First-year B.Tech CSE (AI & ML) student at UPES — currently building the habit
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psgupta0804/)
 
 ### 📊 GitHub Stats
-![Pratyaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps-gupta&show_icons=true&theme=default&hide_border=true)
+![Pratyaksh's GitHub stats](github-readme-stats-roan-three-97.vercel.app/api?username=ps-gupta&show_icons=true&theme=default&hide_border=true)
