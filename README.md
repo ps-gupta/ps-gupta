@@ -10,10 +10,10 @@ First-year B.Tech CSE (AI & ML) student at UPES — currently building the habit
 
 ---
 
-**100 Days of Code — Day 41 / 100**
+**100 Days of Code — Day 43 / 100**
 
 ```
-[████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 41%
+[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 43%
 ```
 
 ---
